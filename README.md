@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👨‍💻 I’m looking to find new role as an [Flutter devoleper](Flutter devoleper)
-
 - 📫 How to reach me **MounirAShraf96@gmail.com**
+
+- 👨‍💻 I’m looking to find new role as an **Flutter devoleper**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
