@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mounir Ashraf</h1>
 <h3 align="center">A passionate flutter developer</h3>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Welcome+to+my+github+profile)](https://git.io/typing-svg)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
